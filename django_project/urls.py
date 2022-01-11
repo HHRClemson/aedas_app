@@ -33,6 +33,5 @@ urlpatterns = [
     path('pdf_view/<int:id>/', views.Generate, name="pdf_generate"),
     path('map_view/', views.default_map, name="default_map"),
 ]
-
 if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
