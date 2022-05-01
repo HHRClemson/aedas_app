@@ -1,1 +1,1 @@
-AEDAS is an Agricultural Water Data Analytics app that helps to gather data from USDA, NIDIS, and NOAA to analyze agricultural water availability during different growing seasons.AEDAS is developed as both web and mobile applications.   
+AEDAS is an Agricultural Data Analytics app that helps to gather data from USDA, NIDIS, and NOAA to analyze agricultural water availability during different growing seasons.AEDAS is developed as both web and mobile applications. This app is well suited for ag Extension and outreach activities.
